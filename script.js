@@ -56,3 +56,4 @@
 // }
 
 var username = promt("What is your name?");
+alert 
