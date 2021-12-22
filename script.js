@@ -27,3 +27,7 @@ else {
   alert("Good job!")
 }
 
+var age = 10 ;
+if (age >= 18) {
+  alert("You can vote!");
+}
