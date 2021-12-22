@@ -17,3 +17,7 @@ if (c < d) { //true
   alert("C is less than D");
   console.log ('Hello world')
 }
+
+
+var e = 3.13;
+
