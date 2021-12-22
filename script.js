@@ -37,11 +37,21 @@
 
 
 
-var apple = 5
-var pear = 6
-if (apple < pear) {
-  alert("pears are won");
+// var apple = 5
+// var pear = 6
+// if (apple < pear) {
+//   alert("pears are won");
+// }
+// else {
+//   alert("apples are won");
+// }
+
+var kolya = 5
+var sasha = 7 
+if (kolya + sasha == 11) {
+  alert("true");
 }
 else {
-  alert("apples are won");
+  alert("false");
 }
+
