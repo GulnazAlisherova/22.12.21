@@ -14,5 +14,6 @@ var exmaple7 = a < b ;
 var c = 12;
 var d = 11;
 if (c < d) { //true
+   alert("C is less than D");
    
 }
