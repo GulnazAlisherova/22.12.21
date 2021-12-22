@@ -19,5 +19,11 @@ if (c < d) { //true
 }
 
 
-var e = 3.13;
+var e = 3.14;
+if (e !== 3.14 ) {
+  alert("Why don't you know numver PI");
+}
+else {
+  alert("Good job!")
+}
 
