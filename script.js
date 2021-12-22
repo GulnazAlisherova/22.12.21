@@ -46,12 +46,13 @@
 //   alert("apples are won");
 // }
 
-var kolya = 5
-var sasha = 7 
-if (kolya + sasha == 11) {
-  alert("true");
-}
-else {
-  alert("false");
-}
+// var kolya = 3
+// var sasha = 8 
+// if (kolya + sasha == 11) {
+//   alert("true");
+// }
+// else {
+//   alert("false");
+// }
 
+var username = promt("What is your name?");
