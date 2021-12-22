@@ -12,4 +12,5 @@ var exmaple7 = a < b ;
 
 
 var c = 12;
- 
+var d = 11;
+if 
